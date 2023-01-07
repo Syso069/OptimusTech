@@ -1,4 +1,5 @@
 @import url(header.css);
+@import url(banner.css);
 
 :root {
     --cor-de-fundo: #FFFFFF;
@@ -6,6 +7,7 @@
     --cinza-claro: #667085;
     --vinho: #8E2424;
     --branco: #FFFFFF;
+    --azul-escuro: #101828;
 }
 
 body {

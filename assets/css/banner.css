@@ -1,0 +1,16 @@
+.banner {
+   margin: 4em 1em;
+   text-align: center;
+}
+
+.banner__subtitulo {
+    font-weight: 600;
+    color: var(--vinho);
+}
+
+.banner__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    padding: 0.5em;
+    color: var(--azul-escuro);
+}
