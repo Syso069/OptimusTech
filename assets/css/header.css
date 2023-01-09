@@ -9,16 +9,10 @@
     padding-right: 0.5em;
 }
 
-.cabecalho__titulo {
-    font-size: 18px;
-    margin-right: 20.5em;
-    color: var(--cinza);
-    font-size: 18px;
-}
 
 .opcoes {
     display: flex;
-    margin-right: auto;
+    margin: 0 auto 0 23em;
 }
 
 .lista__opcoes {
@@ -36,10 +30,11 @@
     padding: 0 1em;
 }
 
-.login__texto-cadastro {
+.login__texto {
     border: solid var(--vinho);
     background: var(--vinho);
     color: var(--branco);
     padding: 0.5em;
+    margin-left: 1em;
     border-radius: 5px;
 }
