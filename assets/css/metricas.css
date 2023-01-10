@@ -1,9 +1,11 @@
 .container__metricas {
     display: flex;
+    justify-content: center;
 }
 
 .metricas {
-    padding: 0 2.5em;
+    padding: 0 2em;
+    width: 15%;
 }
 
 .metricas__titulo {

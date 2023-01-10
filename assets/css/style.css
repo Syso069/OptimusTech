@@ -1,6 +1,7 @@
 @import url(header.css);
 @import url(banner.css);
 @import url(metricas.css);
+@import url(vagas.css);
 
 :root {
     --cor-de-fundo: #FFFFFF;
@@ -9,6 +10,7 @@
     --vinho: #8E2424;
     --branco: #FFFFFF;
     --azul-escuro: #101828;
+    --borda: #EAECF0;
 }
 
 body {
