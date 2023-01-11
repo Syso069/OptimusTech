@@ -2,6 +2,7 @@
 @import url(banner.css);
 @import url(metricas.css);
 @import url(vagas.css);
+@import url(depoimento.css);
 
 :root {
     --cor-de-fundo: #FFFFFF;

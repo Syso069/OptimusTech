@@ -1,0 +1,28 @@
+.depoimento {
+    text-align: center;
+}
+
+.depoimento__titulo {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--vinho);
+}
+
+.depoimento__subtitulo {
+    font-size: 36px;
+    color: var(--azul-escuro);
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.depoimento__texto-nome {
+    color: var(--azul-escuro);
+    padding: 0.5em;
+}
+
+.depoimento__texto {
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+}
