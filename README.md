@@ -1,6 +1,8 @@
-# 7daysOfCode
-## Link para ver o site:
->https://syso069.github.io/7daysOfCode/
+# OptimusTech
+
+![GitHub language count](https://img.shields.io/github/languages/count/syso069/Mobile-First)
+![GitHub top language](https://img.shields.io/github/languages/top/syso069/Mobile-First)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Sobre o projeto
 
