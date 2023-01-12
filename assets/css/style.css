@@ -3,6 +3,7 @@
 @import url(metricas.css);
 @import url(vagas.css);
 @import url(depoimento.css);
+@import url(rodape.css);
 
 :root {
     --cor-de-fundo: #FFFFFF;
@@ -12,6 +13,7 @@
     --branco: #FFFFFF;
     --azul-escuro: #101828;
     --borda: #EAECF0;
+    --branco-gelo: #98A2B3;
 }
 
 body {
