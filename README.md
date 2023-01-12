@@ -12,7 +12,7 @@
 
 # Status do projeto
 
-> Concluído
+> Concluído ✔️
 
 ## Layout Mobile
 <div style="display: inline_block"><br>
