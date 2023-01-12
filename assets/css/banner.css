@@ -23,5 +23,11 @@
 }
 
 @media screen and (max-width: 420px) {
-    
+    .banner {
+        margin: 4em 0.5em;
+    }
+
+    .banner__texto {
+        margin: 0 14%;
+    }
 }

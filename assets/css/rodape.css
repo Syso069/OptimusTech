@@ -38,3 +38,18 @@
     color: var(--branco-gelo);
     padding: 2em;
 }
+
+@media screen and (max-width: 420px) {
+    .rodape {
+        padding: 4em;
+    }
+
+    .email {
+        width: 100%;
+    }
+
+    .rodape__botao {
+       margin: 1em 0;
+    }
+
+}

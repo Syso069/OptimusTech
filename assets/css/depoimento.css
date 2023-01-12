@@ -26,3 +26,9 @@
     font-weight: 400;
     color: var(--cinza-claro);
 }
+
+@media screen and (max-width: 420px) {
+    .depoimento__subtitulo {
+        width: 85%;
+    }
+}

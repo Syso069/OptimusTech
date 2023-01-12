@@ -59,3 +59,14 @@
 .descricao {
     display: flex;
 }
+
+@media screen and (max-width: 420px) {
+    .vagas__imagem {
+        width: 90%;
+        padding: 2em;
+    }
+
+    .container__card {
+        width: 90%;
+    }
+}

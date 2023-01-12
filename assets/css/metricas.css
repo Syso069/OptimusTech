@@ -25,3 +25,15 @@
     color: var(--cinza-claro);
     margin-right: 10%;
 }
+
+@media screen and (max-width: 420px) {
+    .container__metricas{
+        display: block;
+        text-align: center;
+    }
+
+    .metricas {
+        margin: auto;
+        width: 90%;
+    }
+}

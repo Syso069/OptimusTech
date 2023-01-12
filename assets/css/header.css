@@ -39,40 +39,30 @@
     border-radius: 5px;
 }
 
-.login__mobile,
-.cabecalho__imagem__mobile,
-.opcoes__mobile {
-    display: none;
-}
-
 @media screen and (max-width: 420px) {
-
-    .login__mobile,
-    .cabecalho__imagem__mobile,
-    .opcoes__mobile{
-        display: block;
-    }
-
-    .cabecalho__imagem,
-    .opcoes,
-    .login,
-    .lista__opcoes__link {
-        display: none;
-    }
-
     .cabecalho {
+        padding: 1em;
         display: block;
         text-align: center;
+    }
+
+    .cabecalho__imagem {
+       padding-right: 0;
+       width: 50%;
+    }
+
+    .opcoes {
+        margin: 0;
+        display: block;
         padding: 1em;
     }
 
-    .login__mobile{
-        display: flex;
-        justify-content: space-between;
+    .lista__opcoes {
+        padding: 0.25em;
     }
 
-    .cabecalho__imagem__mobile {
-        margin: auto;
-        padding: 0.5em;
+    .login {
+        display: none;
     }
+
 }
