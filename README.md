@@ -31,7 +31,7 @@
 - HTML / CSS 
 
 # Visualizar o projeto
-https://syso069.github.io/7daysOfCode/
+https://syso069.github.io/OptimusTech/
 
 # Autor
 
