@@ -6,7 +6,7 @@
 
 # Sobre o projeto
 
-> OptimusTech é uma aplicação Front-end (responsivo, mobile e desktop) construído a partir de um desafio feito da Alura para mim e topei participar.
+> OptimusTech é uma aplicação Front-end (responsivo, mobile e desktop) construído a partir de um desafio feito da Alura para mim aoonde eu teria que olhar o design que eles madaram no figma para eu reproduzir e claro, topei participar.
 
 > A aplicação consiste em um site de uma empresa que está procurando novos talentos.
 
